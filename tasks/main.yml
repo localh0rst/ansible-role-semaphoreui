@@ -1,2 +1,2 @@
 ---
-# tasks file for semaphoreui
+- include: tasks/requirements.yml
